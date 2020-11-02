@@ -2,7 +2,7 @@
 
        This module consists of various sorting algorithms that are very much useful in realtime developments and their time complexity analysis. 
 
-# various Sorting Algorthims are: 
+# various Sorting Algorthims: 
 - Selection Sort
 - Bubble Sort
 - Recursive Bubble Sort
@@ -35,7 +35,7 @@
 - Cartesian Tree Sorting
 - Odd-Even Sort / Brick Sort
 
-# ALGORITHM	TIME COMPLEXITY	 
+# Algorithm	Time Complexity	 
 
 # 	  BEST -> AVERAGE -> WORST	 
 - Selection Sort [Ω(n^2) -> θ(n^2) -> O(n^2)]	 
